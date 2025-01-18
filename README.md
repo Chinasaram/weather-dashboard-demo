@@ -23,5 +23,3 @@ This application pulls data from the open weather API, processes it to a JSON, t
 + Confirm pip is installed by by running: `pip --version`
 + Install requirements.txt file by running this command:
 `pip install -r requirements.txt`
-
-## Starting the project
